@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ac86c2d8c744ee4b94f7f058b0d2f43, type: 3}
+  m_Name: MultiplayerRuntimeConfig
+  m_EditorClassIdentifier: 
+  sessionType: goodboys-room
+  gameplaySceneName: level2
+  networkPlayerPrefab: {fileID: 5792246223294578919, guid: 2ba616f17ba9a1841bbfe80ef4d7327b, type: 3}
+  playerSpawnSpacing: {x: 2.75, y: 0, z: 0}
+  roomCodeArgumentKey: goodboys_join_code
